@@ -45,7 +45,7 @@ export default function Home() {
                             </div>
                             <div className="">website proposal</div>
                         </div>
-                        <div className="text-5xl md:text-6xl lg:text-8xl text-balance mt-2">
+                        <div className="text-5xl md:text-6xl lg:text-8xl text-balance mt-2 text-justify">
                             Comedy, depravity, and all things Rotten.
                         </div>
                         <div className="leading-none mt-4">
