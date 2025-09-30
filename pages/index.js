@@ -46,7 +46,7 @@ export default function Home() {
                             <div className="">website proposal</div>
                         </div>
                         <div
-                            className="text-5xl md:text-6xl lg:text-8xl text-balance mt-2 text-justify"
+                            className="text-5xl md:text-6xl lg:text-8xl text-balance mt-2 sm:text-justify text-left"
                             style={{ textWrap: "pretty" }}
                         >
                             Comedy, depravity, and all things Rotten.
