@@ -146,8 +146,8 @@ export default function Home() {
                         reproduction, or disclosure of the information and ideas
                         contained herein, in whole or in part, is strictly
                         prohibited. This deck is intended solely for the
-                        recipient's personal evaluation and should not be shared
-                        without prior written consent. By reviewing this
+                        recipient&apos;s personal evaluation and should not be
+                        shared without prior written consent. By reviewing this
                         material, you agree to maintain the confidentiality of
                         the information provided.
                     </div>
