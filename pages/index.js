@@ -39,7 +39,7 @@ export default function Home() {
             <section className="bg-[#ED7EDF] font-myfont w-full text-[#1c1c1c] min-h-screen overflow-hidden z-20 uppercase items-center flex flex-col">
                 <div className="content-container max-w-[1000px]">
                     <div className="p-2">
-                        <div className="flex flex-row justify-between w-full">
+                        <div className="flex flex-col sm:flex-row justify-between w-full">
                             <div className="font-myfont">
                                 finetooth.dev ★ Rotten Science
                             </div>
